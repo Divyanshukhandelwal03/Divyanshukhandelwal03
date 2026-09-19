@@ -10,6 +10,31 @@ Full-Stack Developer & AI Systems Engineer passionate about building scalable fu
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Divyanshukhandelwal03?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="90" alt="Pull Shark (Silver)" title="Pull Shark (Silver) - Merged Pull Requests" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Divyanshukhandelwal03?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="90" alt="Pair Extraordinaire (Bronze)" title="Pair Extraordinaire (Bronze) - Co-authored Commits on Merged PRs" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Divyanshukhandelwal03?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" title="Quickdraw - Closed Issue/PR within 5 mins" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Divyanshukhandelwal03?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO" title="YOLO - Merged PR without review" />
+  </a>
+</p>
+<p align="center">
+  <sub><b>Pull Shark (Silver)</b> • <b>Pair Extraordinaire</b> • <b>Quickdraw</b> • <b>YOLO</b></sub>
+</p>
+
+---
+
 ### 🚀 Featured Projects & Products Developed
 
 #### 1. 🎯 [OneFightMore](https://www.onefightmore.in/) — India's Smartest Govt Exam Preparation Suite
@@ -75,15 +100,15 @@ A 100% local-first autonomous job hunting and cold outreach agent designed to el
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & All-Time Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Divyanshukhandelwal03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Divyanshu's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Divyanshukhandelwal03&theme=radical&hide_border=true" alt="Divyanshu's All-Time Contributions & Streak" />
 </p>
 
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Divyanshukhandelwal03&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&hide=stars,prs,issues,contribs" alt="Divyanshu's All-Time Commits" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukhandelwal03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Divyanshukhandelwal03&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
