@@ -24,8 +24,8 @@ An end-to-end edtech and AI study platform built for competitive aspirants (SSC,
   - Scientifically-backed **SM-2 Spaced Repetition Flashcards** for active recall revision.
   - SSC Typing Speed Test Arena with real-time WPM, accuracy, and error tracking.
 - **Architecture**:
-  - `onemorefight-frontend`: Modern, responsive Next.js / React application with PWA offline support, dark mode, and sleek UI.
-  - `onemorefight-backend`: Scalable Node.js / Express backend with secure APIs, database indexing, and AI analytics pipelines.
+  - `onefightmore-frontend`: Modern, responsive Next.js / React application with PWA offline support, dark mode, and sleek UI.
+  - `onefightmore-backend`: Scalable Node.js / Express backend with secure APIs, database indexing, and AI analytics pipelines.
 
 ---
 
