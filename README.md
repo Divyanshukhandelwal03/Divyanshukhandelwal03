@@ -14,7 +14,6 @@ Full-Stack Developer & AI Systems Engineer passionate about building scalable fu
 
 #### 1. 🎯 [OneFightMore](https://www.onefightmore.in/) — India's Smartest Govt Exam Preparation Suite
 > *Live at: [https://www.onefightmore.in](https://www.onefightmore.in/)*  
-> *Codebases: `onemorefight-frontend` | `onemorefight-backend`*
 
 An end-to-end edtech and AI study platform built for competitive aspirants (SSC, Banking, UPSC, Railways) supporting 70+ government exams.
 - **AI Scorecard OCR & Weak-Topic Diagnosis**: Multimodal OCR engine that parses candidate scorecards from Testbook & Oliveboard, classifying silly mistakes vs. conceptual gaps.
