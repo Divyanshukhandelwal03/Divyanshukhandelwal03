@@ -78,8 +78,12 @@ A 100% local-first autonomous job hunting and cold outreach agent designed to el
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshukhandelwal03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Divyanshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshukhandelwal03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Divyanshukhandelwal03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Divyanshu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukhandelwal03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Divyanshukhandelwal03&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
