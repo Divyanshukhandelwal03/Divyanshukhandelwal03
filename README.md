@@ -104,20 +104,6 @@ A 100% local-first autonomous job hunting and cold outreach agent designed to el
 
 ---
 
-### 📊 GitHub Activity & All-Time Contributions
-
-<p align="center">
-  <!-- All-Time Contributions (1,171+ from 2022 to Present) & Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Divyanshukhandelwal03&theme=radical&hide_border=true" alt="Divyanshu's All-Time Contributions & Streak" />
-</p>
-
-<p align="center">
-  <!-- All-Time Commits with Rank Circle Removed (hide_rank=true) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=Divyanshukhandelwal03&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&hide=stars,prs,issues,contribs&hide_rank=true" alt="Divyanshu's All-Time Commits" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/divyan-khandelwal](https://www.linkedin.com/in/divyan-khandelwal/)
